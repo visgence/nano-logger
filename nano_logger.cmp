@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by CvPcb (2014-03-07 BZR 4737)-product date = 4/26/2014 11:37:21 PM
+
+BeginCmp
+TimeStamp = /535C9327;
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = visgence_parts:SM1206POL_VIS;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C9422;
+Reference = C2;
+ValeurCmp = 0.1u;
+IdModule  = visgence_parts:SM0603_VIS;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C915D;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C9928;
+Reference = D1;
+ValeurCmp = STAT;
+IdModule  = visgence_parts:VIS_LED_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C9A3C;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = visgence_parts:VIS_LED_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C9AF9;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = visgence_parts:VIS_LED_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C9A49;
+Reference = D4;
+ValeurCmp = PWR;
+IdModule  = visgence_parts:VIS_LED_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C84DB;
+Reference = IC1;
+ValeurCmp = ATMEGA328P-M;
+IdModule  = QFP:lqfp32;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C8854;
+Reference = P1;
+ValeurCmp = SDMICRO;
+IdModule  = visgence_parts:microsd-molex-47571;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C9CF8;
+Reference = P2;
+ValeurCmp = P1;
+IdModule  = Connect:bornier4;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C8B1A;
+Reference = P3;
+ValeurCmp = FTDI;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C94BD;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = visgence_parts:VIS_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C993C;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = visgence_parts:VIS_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C9A42;
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = visgence_parts:VIS_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C9AFF;
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = visgence_parts:VIS_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C9A4F;
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = visgence_parts:VIS_SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /535C9808;
+Reference = Y1;
+ValeurCmp = RESONATORSMD;
+IdModule  = visgence_parts:RESONATOR-SMD;
+EndCmp
+
+EndListe
