@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-07 BZR 4737)-product date = 4/26/2014 11:37:21 PM
+Cmp-Mod V01 Created by CvPcb (2014-03-07 BZR 4737)-product date = 5/6/2014 10:41:51 PM
 
 BeginCmp
 TimeStamp = /535C9327;
@@ -53,7 +53,7 @@ BeginCmp
 TimeStamp = /535C84DB;
 Reference = IC1;
 ValeurCmp = ATMEGA328P-M;
-IdModule  = QFP:lqfp32;
+IdModule  = SMD_Packages:QFN32-5x5;
 EndCmp
 
 BeginCmp
