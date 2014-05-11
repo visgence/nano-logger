@@ -601,22 +601,14 @@ F 3 "" H 5600 5200 60  0000 C CNN
 $EndComp
 Wire Wire Line
 	5600 5200 5600 5350
-Text GLabel 6150 2850 2    43   Input ~ 0
-ADC0
-Text GLabel 6150 2950 2    43   Input ~ 0
-ADC1
-Text GLabel 5700 5050 1    43   Input ~ 0
-ADC0
 Text GLabel 5800 5050 1    43   Input ~ 0
-ADC1
+ADC4
+Text GLabel 5700 5050 1    43   Input ~ 0
+ADC5
 Wire Wire Line
 	5700 5050 5700 5350
 Wire Wire Line
 	5800 5050 5800 5350
-Wire Wire Line
-	6150 2850 5850 2850
-Wire Wire Line
-	6150 2950 5850 2950
 $Comp
 L C C1
 U 1 1 535C9327
@@ -673,8 +665,16 @@ NoConn ~ 5850 4300
 NoConn ~ 5850 4200
 NoConn ~ 5850 4100
 NoConn ~ 5850 4000
-NoConn ~ 5850 3350
-NoConn ~ 5850 3250
 NoConn ~ 5850 3150
 NoConn ~ 5850 3050
+Text GLabel 6150 3250 2    43   Input ~ 0
+ADC4
+Text GLabel 6150 3350 2    43   Input ~ 0
+ADC5
+Wire Wire Line
+	5850 3250 6150 3250
+Wire Wire Line
+	5850 3350 6150 3350
+NoConn ~ 5850 2850
+NoConn ~ 5850 2950
 $EndSCHEMATC
