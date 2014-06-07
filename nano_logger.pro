@@ -87,4 +87,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=C:/Users/esalazar/git/visgence_parts/visgence_parts
+LibName31=../visgence_parts/visgence_parts
